@@ -41,3 +41,7 @@ border-right: 0;
     border-left: none;
 
 }
+.heading{
+    text-align: center;
+    border: none;
+}
